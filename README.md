@@ -1,2 +1,2 @@
-# danayogacoach
+# danayogastudio
 Personal Training -React.JS Project 
